@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'myghycity',
-  description: 'Created with v0',
+  description: 'ANVAYA SOLUTION',
   generator: 'myghycity',
 }
 
